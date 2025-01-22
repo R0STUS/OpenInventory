@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[8,)"
+license="MIT"
+[[mods]]
+modId="openinventory"
+version="1.1"
+displayName="Open Inventory Mod"
+description="Mod to open the inventory of other players with right-click when nearby."
+authors="r0stus"
+credits="Created by rost"

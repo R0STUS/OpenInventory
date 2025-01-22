@@ -1,0 +1,16 @@
+[
+{
+  "modid": "openinventory",
+  "name": "Open Inventory",
+  "description": "With this mod you can open inventory of over players.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["R0STUS"],
+  "credits": "Arch Linux, for his package manager, that was helpful with installing jdk",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
