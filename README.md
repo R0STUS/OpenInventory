@@ -10,7 +10,6 @@ OpenInventory is a Minecraft Forge mod for version 1.12.2 that allows players to
 - Open another player's inventory by right-clicking on them.
 - Maximum interaction distance is configurable (default: 1.5 blocks).
 - Automatically closes the inventory when the players move too far apart.
-- Sends customizable messages to the interacting player.
 
 ## How to Use
 1. Approach another player.
